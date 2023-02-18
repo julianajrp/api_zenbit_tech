@@ -1,5 +1,5 @@
-!/usr/bin/envbash
-exit on error
+#!/usr/bin/envbash
+#exit on error
 set -o errexit
 
 yarn 
